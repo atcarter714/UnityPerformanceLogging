@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "gaia-performance-logging",
+  "private_key_id": "b940dd7ed95965811b0d183f5f2c5d58b8822140",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCsoPeUPiCtuQzx\nuesICOX5FcHwojoeVwImzK5Ye03Rh2cMKGBfBIGujJbBRLqnEJSlWDUflWk9PB26\nCRRz94/lan7iNjdFQxxiByubFKSa0AaI0QHOHxaLIzrDaJthC1QjdlUbW9vjeKGr\nzV76Bo7/hB/B9P7vWLwDLjVSEgtZ8/3vQ1NE3X0T4JfQB3voSz4hU/tMz/UIis0G\nZTHuV1yiJI1qZ7ImGEbLIy9bIvbi7HoEqtd/HVnDZqxsDCICPQ3LJoMkYiXVQfTK\n+erlapnil4LbJejAf8cc9aF/dV7om0847v+Jv3oDAzm5mr99+mxh+GrYejbNjLl6\nLEHwAANjAgMBAAECggEADbdNGem6dfh7N0+dhYoTdQWOCce8qhbMCczUg3I/SMkj\nM7uXi0/T2qG6rrN+cxy6+szgjQMK6r3L4jFWKdqp2RbA6x9XUo5WWHxCXN7jL0Ed\nFnd+LGRFnxuBpUS6p8IbLCV69fgH/McObWnyxGyLUHEChvTSNq6MYwz5A+2Bb7hK\nJRBE89ZAWdE3mX2/dbFJHuGE+Rjhd5zXB2ycmLYEzmaOXh7baVi7OqgqpmylR8K7\n04a7n7FxI7T/3Xovpg/FBtMEPeuSAaVUS0jBQYraQjTbbiRSAr0ILST9llgWj83c\n/ZGheCkAGs89C+lpN+ktYAjQibAmWrw5Wp9OOURj5QKBgQDmysvqJbZ68kFQ8eId\nAjK6AuMId1Wa5TJMpq/oI5Q+6jfrrw4OJmw9hDrwbTktQbqtbsSDnxHRYAUD6ezg\nOh8euT2RiMV234URmFAoI173tYMC4mlLbEXg5zrqdV4IcZNm4o9qIoSqW1pkGdB3\nZh59pXZ92Hl0ym6NyzP4DyaLHwKBgQC/e9ug7tCrOWGGI3T56af9u1ilBxcyAUbr\nMS04a+/8FBqDIrRP4QUh3S3YdgGpnvcR1dM6hu8RQkedW40bAz9mvpfH1KJMwR3u\nFxJzkPvN+jkzmNDL8vR+U/TWv974AwBtsgYOTiyp7GfCBnxPlTrcSBi4uSRCePt5\nOrMfsWCDPQKBgDcdqTMCzKBx6D1PdqNc2gZoGBX2gcAbCjcZ+5phnM6lmrMzPBUP\nAfxy7qxqOSRgtRckA9Q3EcdBuhDkNYia+MGalWSDGD06RgocqM/dGpnnhCEVNvYn\nJkz+i6hgXROBJCWG557+HVaduGl9bLaG8bMp57FIGEFW8q30IDYWUCsbAoGAZ3ov\nfhCQg3dG1I5ksIksV1ne1Y+3YTZ/dKnmng72aWsTyLoAZwpbE6nLFKbwzxEww1qi\nA4bXuqPuv4KyBl8C7CsjKsIl0wSpf/jH59v5t535O4DhlNV+eqY0MbkObUhx+tWx\noBlu2YT/rUKD+x3R6Sis82ZZyfJHM4QdOItKdKECgYAPO3wTGrqBYRAPCW4YYmH+\nSS8jNNdAIRKFnd/xP/XLN7r9uTUtjWDs77Nkr/T+5pcHJN9FWPNWrG4uCuYrkL8D\nqotSMEzgeu6K91jx66X1BQrNgHK1aFXCfplr6rpIEjM3TlyAgHE5Txz5qP8ujbcJ\ngu33JjjH6SeKRVyWZNOXhQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-uynqk@gaia-performance-logging.iam.gserviceaccount.com",
+  "client_id": "114333656224069037346",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-uynqk%40gaia-performance-logging.iam.gserviceaccount.com"
+}
